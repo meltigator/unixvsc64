@@ -1,4 +1,7 @@
 #!/bin/bash
+#
+# written by Andrea Giani
+#
 
 echo "=== Setting up C64 development environment with MSYS2 ==="
 
